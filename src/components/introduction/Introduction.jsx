@@ -37,12 +37,16 @@ const Introduction = () => {
           </p>
           <p className="text-xs xxs:text-lg lg:text-[18px] my-6">
             I'm a passionate{" "}
-            <span className="bg-highlight">Full-Stack Developer</span> and{" "}
-            <span className="bg-highlight">Tech Enthusiast</span> based in
-            India. I love building clean, performant, and user-focused digital
-            experiences through thoughtful design and well-structured code. With
-            a strong drive to learn and create, I strive to craft applications
-            that are both functional and visually engaging.
+            <span className="bg-highlight">
+              Technical Operations & Support Professional
+            </span>{" "}
+            and <span className="bg-highlight">Full-Stack Developer</span> based
+            in India.I enjoy solving real-world problems, supporting users, and
+            building clean, performant, and user-focused digital experiences
+            through thoughtful design and well-structured code. Alongside my
+            current professional role, I continuously explore modern
+            technologies and develop scalable web and mobile applications that
+            combine functionality with engaging user experiences.
           </p>
 
           <p className="text-center lg:text-start">
